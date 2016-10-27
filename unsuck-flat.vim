@@ -99,8 +99,7 @@ hi Constant           ctermfg=080               guifg=#5FD7D7                 ct
 	hi Float           ctermfg=136               guifg=#AF8700
 
 hi Identifier         ctermfg=210               guifg=#FF8787
-	" WTF: also used for "/" in the file system tree browser
-	hi Function        ctermfg=fg                guifg=fg
+	"hi Function        ctermfg=fg                guifg=fg
 
 hi Statement          ctermfg=080               guifg=#5FD7D7                 cterm=italic  gui=italic
 	hi Conditional     ctermfg=080               guifg=#5FD7D7                 cterm=italic  gui=italic
